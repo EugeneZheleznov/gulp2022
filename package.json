@@ -1,0 +1,40 @@
+{
+	"name": "gulp",
+	"version": "1.0.0",
+	"description": "Gulp 2021 april",
+	"main": "index.html",
+	"author": "Eugene Zheleznov",
+	"license": "ISC",
+	"devDependencies": {
+		"browser-sync": "latest",
+		"del": "latest",
+		"gulp": "latest",
+		"gulp-autoprefixer": "latest",
+		"gulp-clean-css": "latest",
+		"gulp-file-include": "latest",
+		"gulp-fonter": "latest",
+		"gulp-group-css-media-queries": "latest",
+		"gulp-imagemin": "7.1.0",
+		"gulp-media-queries-splitter": "latest",
+		"gulp-newer": "latest",
+		"gulp-plumber": "latest",
+		"gulp-rename": "latest",
+		"gulp-replace": "latest",
+		"gulp-responsive": "latest",
+		"gulp-sass": "^4.1.1",
+		"gulp-svg-sprite": "^1.5.0",
+		"gulp-ttf2woff": "latest",
+		"gulp-ttf2woff2": "latest",
+		"gulp-uglify-es": "latest",
+		"gulp-webp-html": "^1.0.2",
+		"gulp-webpcss": "^1.1.1",
+		"imagemin-webp": "6.0.0",
+		"normalize.css": "^8.0.1",
+		"sass": "^1.49.9",
+		"transform-runtime": "0.0.0",
+		"webp-converter": "2.2.3"
+	},
+	"dependencies": {
+		"gulp-sourcemaps": "^3.0.0"
+	}
+}

@@ -1,0 +1,53 @@
+@import "../../node_modules/normalize.css/normalize"; 
+@import "components/variables";
+@import "components/mixins";
+@import "components/fonts"; 
+@import "components/button"; 
+@import "components/header";
+@import "components/footer";  
+
+ 
+*, *:before, *:after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+  
+html {
+    scroll-behavior: smooth; 
+}
+
+body { 
+	overflow-x: hidden; 
+    position: relative; 
+}
+
+.active {
+    display: block;
+}
+
+.hidden {
+    display: none;
+} 
+
+.lock {
+    overflow: hidden;
+}
+
+
+
+main { 
+
+    article {
+
+        aside {
+     
+        }
+
+        section {
+
+        }
+    }
+}
+
+
